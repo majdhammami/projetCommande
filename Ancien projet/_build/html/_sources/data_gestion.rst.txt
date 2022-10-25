@@ -1,7 +1,0 @@
-data_gestion module
-===================
-
-.. automodule:: data_gestion
-   :members:
-   :undoc-members:
-   :show-inheritance:
