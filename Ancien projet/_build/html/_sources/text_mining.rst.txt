@@ -1,0 +1,7 @@
+text\_mining module
+===================
+
+.. automodule:: text_mining
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,7 @@
+article\_search module
+======================
+
+.. automodule:: article_search
+   :members:
+   :undoc-members:
+   :show-inheritance:
